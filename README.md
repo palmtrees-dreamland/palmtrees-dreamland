@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on projects I can learn from and share my progress with
 
-- Currently diving into The Odin Project and Java @IT Academy
+- Currently diving into The Odin Project and Java @IT Academy Barcelona
   
 
 <!---
